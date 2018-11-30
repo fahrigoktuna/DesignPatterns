@@ -688,11 +688,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\fahri\\source\\repos\\DesignPatterns\\DesignPatterns.GangOfFour.Strategy\\DesignPatterns.GangOfFour.Strategy.csproj",
+      "projectUniqueName": "C:\\Users\\fahri\\source\\repos\\DesignPatterns\\GangOfFour\\DesignPatterns.GangOfFour.Strategy\\DesignPatterns.GangOfFour.Strategy.csproj",
       "projectName": "DesignPatterns.GangOfFour.Strategy",
-      "projectPath": "C:\\Users\\fahri\\source\\repos\\DesignPatterns\\DesignPatterns.GangOfFour.Strategy\\DesignPatterns.GangOfFour.Strategy.csproj",
+      "projectPath": "C:\\Users\\fahri\\source\\repos\\DesignPatterns\\GangOfFour\\DesignPatterns.GangOfFour.Strategy\\DesignPatterns.GangOfFour.Strategy.csproj",
       "packagesPath": "C:\\Users\\fahri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fahri\\source\\repos\\DesignPatterns\\DesignPatterns.GangOfFour.Strategy\\obj\\",
+      "outputPath": "C:\\Users\\fahri\\source\\repos\\DesignPatterns\\GangOfFour\\DesignPatterns.GangOfFour.Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
