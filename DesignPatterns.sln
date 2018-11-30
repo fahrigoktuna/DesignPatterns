@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GangOfFour", "GangOfFour", "{0F1BB730-D190-430B-A1BA-F97B17E160A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{6469AE98-CE07-4A65-948C-463AB235FE92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{4A9E994A-424F-4783-8DBD-D131A99C9D80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.GangOfFour.Builder", "GangOfFour\DesignPatterns.GangOfFour.Builder\DesignPatterns.GangOfFour.Builder.csproj", "{5710F743-91A7-4834-923E-77626A2201FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.GangOfFour.Mediator", "GangOfFour\DesignPatterns.GangOfFour.Mediator\DesignPatterns.GangOfFour.Mediator.csproj", "{2D7A2935-ECAF-4E80-B2FE-120C5295C49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5710F743-91A7-4834-923E-77626A2201FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5710F743-91A7-4834-923E-77626A2201FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5710F743-91A7-4834-923E-77626A2201FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5710F743-91A7-4834-923E-77626A2201FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7A2935-ECAF-4E80-B2FE-120C5295C49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7A2935-ECAF-4E80-B2FE-120C5295C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7A2935-ECAF-4E80-B2FE-120C5295C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7A2935-ECAF-4E80-B2FE-120C5295C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6469AE98-CE07-4A65-948C-463AB235FE92} = {0F1BB730-D190-430B-A1BA-F97B17E160A0}
+		{4A9E994A-424F-4783-8DBD-D131A99C9D80} = {0F1BB730-D190-430B-A1BA-F97B17E160A0}
+		{5710F743-91A7-4834-923E-77626A2201FB} = {6469AE98-CE07-4A65-948C-463AB235FE92}
+		{2D7A2935-ECAF-4E80-B2FE-120C5295C49B} = {4A9E994A-424F-4783-8DBD-D131A99C9D80}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14AE0D9-B3C6-4D0E-B7CB-0F8692BB2998}
+	EndGlobalSection
+EndGlobal
