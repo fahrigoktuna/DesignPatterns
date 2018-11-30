@@ -13,7 +13,6 @@ C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.
 C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\bin\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.runtimeconfig.dev.json
 C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\bin\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.dll
 C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\bin\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.pdb
-C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\obj\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.csprojResolveAssemblyReference.cache
 C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\obj\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.csproj.CoreCompileInputs.cache
 C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\obj\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.AssemblyInfoInputs.cache
 C:\Users\fahri\source\repos\DesignPatterns\GangOfFour\DesignPatterns.GangOfFour.Mediator\obj\Debug\netcoreapp2.2\DesignPatterns.GangOfFour.Mediator.AssemblyInfo.cs
